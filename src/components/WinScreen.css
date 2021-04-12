@@ -10,3 +10,9 @@
 .winscreen-btn {
     padding: 10px 15px;
 }
+
+@media (max-width: 648px) {
+    .winscreen-img {
+        width: 200px;
+    }  
+}

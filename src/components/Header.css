@@ -12,3 +12,9 @@
 .header-img {
     height: 150px;
 }
+
+@media (max-width: 648px) {
+    .header-img {
+        height: 100px;
+    } 
+}

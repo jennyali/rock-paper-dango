@@ -21,3 +21,9 @@
 .ChoiceBtn:hover {
     background: lightgrey;
 }
+
+@media (max-width: 648px) {
+    .ChoiceBtn {
+        width: 110px;
+    } 
+}
